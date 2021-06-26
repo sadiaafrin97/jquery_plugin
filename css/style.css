@@ -1,0 +1,36 @@
+.box{
+	min-height: 350px;
+}
+.red{
+	background-color: red;
+}
+.yellow{
+	background-color: yellow;
+}
+.blue{
+	background-color: blue;
+}
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+.slick-prev:before, .slick-next:before {
+    color: #7b2424;}
+.wrapper{
+	width: 315px;
+	min-height: 200px;
+	border: 2px solid blue;
+	text-align: center;
+}
+.owl-prev{
+	position: absolute;
+	font-size: 30px;
+	left: -40px;
+	top: 45%;
+}
+.owl-next{
+	position: absolute;
+	font-size: 30px;
+	right:-40px;
+	top: 45%;
+}
